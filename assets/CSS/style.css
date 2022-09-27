@@ -136,6 +136,9 @@ navbar{
 }
 .btn1{
     margin-right: 500px;
+    height: 50px;
+    padding-top: 10px;
+    margin-top: 10px;
 }
 
 
@@ -171,7 +174,7 @@ navbar{
     background-color: rgba(54, 53, 67, 0.266);
     height: 600px;
     margin-top: 22px;
-    margin-left: 50px;
+    /* margin-left: 50px; */
     border-radius: 20px;
     justify-content: space-between;
     padding-top: 7px;
@@ -252,4 +255,160 @@ h2{
     margin-right: 50px;
     font-size: 15px;
 
+}
+
+/*-----------------  Bars ----------------- */
+.skills{
+    padding-top: 20px;
+    font-size: 20px;
+}
+.bars{
+    width: 95%;
+    height: fit-content;
+    margin-top: 100px;
+    /* margin-left: 20px; */
+    margin-right: 50px;
+    /* border: 2px solid red; */
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+}
+.bar{
+    width: 99%;
+    height: 20px;
+    margin: 20px 10px;
+    background-color: grey;
+    border-radius: 20px;
+    transition: .5s;
+    
+}
+.bar:hover{
+    transform: scale(1.02);
+    cursor: pointer;
+}
+.percent1{
+    width: 76%;
+    height: 20px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding-right: 20px;
+    background-color:  #ea1538;
+    border-radius: 20px;
+
+}
+.percent2{
+    width: 89%;
+    height: 20px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding-right: 20px;
+    background-color:  #ea1538;
+    border-radius: 20px;
+
+}
+.percent3{
+    width: 79%;
+    height: 20px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding-right: 20px;
+    background-color:  #ea1538;
+    border-radius: 20px;
+
+}
+.percent4{
+    width: 69%;
+    height: 20px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding-right: 20px;
+    background-color:  #ea1538;
+    border-radius: 20px;
+
+}
+.percentage-data{
+     
+    float: right;
+    margin-right: 5px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+}
+
+/* ---------- Page 3---------- */
+
+.upcircle1{
+    background-image: url(/assets/images/14-142430_education-icon-png-transparent-png-modified.png);
+    border-radius: 50%;
+    border: 3px solid white;
+    width: 90px;
+    height: 90px;
+    margin-left: 40%;
+    margin-top: -50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.upcircle2{
+    background-image: url(/assets/images/images-modified.png);
+    border-radius: 50%;
+    border: 3px solid white;
+    width: 90px;
+    height: 90px;
+    margin-left: 40%;
+    margin-top: -50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.upcircle3{
+    background-image: url(/assets/images/info.png);
+    border-radius: 50%;
+    border: 3px solid white;
+    width: 90px;
+    height: 90px;
+    margin-left: 40%;
+    margin-top: -50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.innerbox{
+    /* border: 2px solid red; */
+    width: 95%;
+    height: 200px;
+    margin-top: 50px;
+    padding-top: 20px;
+    margin-left: 10px;
+}
+.innerbox1{
+    /* border: 2px solid red; */
+    width: 95%;
+    height: 200px;
+    margin-top: 10px;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.certi{
+    width: 90%;
+    height: 180px;
+    margin: 10px;
+    background-image: url(/assets/images/images.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.innerbox2{
+    /* border: 2px solid red; */
+    width: 95%;
+    height: 250px;
+    /* margin-top: 10px; */
+    padding-top: 10px;
+    margin-left: 20px;
+}
+.txt{
+    width: 180px;
+    height: 150px;
+    border-radius: 20px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+.btn3{
+    margin: 5px;
 }
