@@ -92,7 +92,7 @@ a{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: linear-gradient(to top, rgba(0,0,0,0.6),rgba(0,0,0,0.9)),url(/back1.jpg);
+    background-image: linear-gradient(to top, rgba(0,0,0,0.6),rgba(0,0,0,0.9)),url(/assets/images/back1.jpg);
 }
 navbar{
     /* border: 2px solid red; */
